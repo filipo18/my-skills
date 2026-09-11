@@ -1,0 +1,6 @@
+interface:
+  display_name: "Explain Review Comment"
+  short_description: "Trace and explain code review findings"
+  default_prompt: "Use $explain-review-comment to investigate and explain this review comment."
+policy:
+  allow_implicit_invocation: false
